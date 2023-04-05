@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "struct_latihan1", "struct_l
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "struct_latihan2", "..\struct_latihan2\struct_latihan2.vcxproj", "{4951941D-4F5F-4EEB-BD4D-25E26ADD314B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "struct_latihan3", "struct_latihan3\struct_latihan3.vcxproj", "{36F3095D-7BF0-4D15-94D6-1FF7E2E45F7A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{4951941D-4F5F-4EEB-BD4D-25E26ADD314B}.Release|x64.Build.0 = Release|x64
 		{4951941D-4F5F-4EEB-BD4D-25E26ADD314B}.Release|x86.ActiveCfg = Release|Win32
 		{4951941D-4F5F-4EEB-BD4D-25E26ADD314B}.Release|x86.Build.0 = Release|Win32
+		{36F3095D-7BF0-4D15-94D6-1FF7E2E45F7A}.Debug|x64.ActiveCfg = Debug|x64
+		{36F3095D-7BF0-4D15-94D6-1FF7E2E45F7A}.Debug|x64.Build.0 = Debug|x64
+		{36F3095D-7BF0-4D15-94D6-1FF7E2E45F7A}.Debug|x86.ActiveCfg = Debug|Win32
+		{36F3095D-7BF0-4D15-94D6-1FF7E2E45F7A}.Debug|x86.Build.0 = Debug|Win32
+		{36F3095D-7BF0-4D15-94D6-1FF7E2E45F7A}.Release|x64.ActiveCfg = Release|x64
+		{36F3095D-7BF0-4D15-94D6-1FF7E2E45F7A}.Release|x64.Build.0 = Release|x64
+		{36F3095D-7BF0-4D15-94D6-1FF7E2E45F7A}.Release|x86.ActiveCfg = Release|Win32
+		{36F3095D-7BF0-4D15-94D6-1FF7E2E45F7A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
