@@ -37,3 +37,4 @@ int main()
 	cout << "\nalamat : " << mhs2.alamat;
 	cout << "\numur : " << mhs2.umur;
 }
+
